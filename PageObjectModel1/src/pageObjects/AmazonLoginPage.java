@@ -71,17 +71,3 @@ public class AmazonLoginPage {
 	@FindBy (xpath="//span[contains(text(),'Sign Out')]")
 	public static WebElement Signout;
 	
-	
-	//@FindBy (linkText ="a-dropdown-button")
-	//public static WebElement state;
-	//link text ="a-dropdown-button"
-	/*
-	 * @FindBy
-	 * (xpath="//*[@id=\"address-ui-widgets-form-submit-button\"]/span/input")
-	 * public static WebElement addaddress;
-	 */
-	
-	
-	}//*[@id="address-ui-widgets-form-submit-button"]/span/input
-
-
