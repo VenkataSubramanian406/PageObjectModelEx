@@ -71,3 +71,4 @@ public class AmazonLoginPage {
 	@FindBy (xpath="//span[contains(text(),'Sign Out')]")
 	public static WebElement Signout;
 	
+}
